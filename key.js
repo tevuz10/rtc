@@ -1,1 +1,1 @@
-window.__SKYWAY_KEY__ = '<YOUR_KEY_HERE>';
+window.__SKYWAY_KEY__ = 'f76503c6-2d4a-48c7-b1a6-163686b2d6d6';
